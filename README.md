@@ -1,7 +1,5 @@
 # 📊 Product Sales Dashboard 2026
 
-![Dashboard](https://github.com/hamidraza6/Product-Sales-Dashboard-2026/blob/main/Screenshot%202026-03-08%20001049.png)
-
 ## 📌 Project Overview
 
 The **Product Sales Dashboard 2026** is a data visualization project built to analyze sales performance, profit distribution, and product category performance across different cities and states in Pakistan.
