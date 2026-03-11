@@ -135,4 +135,4 @@ The purpose of this project is to:
 
 # 📷 Dashboard Preview
 
-![Product Sales Dashboard 2026](dashboard.png)
+![Product Sales Dashboard 2026](https://github.com/hamidraza6/Product-Sales-Dashboard-2026/blob/main/Screenshot%202026-03-12%20020501.png)
